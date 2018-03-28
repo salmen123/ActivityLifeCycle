@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+
+    <string-array name="operating_systems">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Win Phone</item>
+        <item>Tizen</item>
+    </string-array>
+</resources>
